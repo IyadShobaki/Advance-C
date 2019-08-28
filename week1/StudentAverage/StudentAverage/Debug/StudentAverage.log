@@ -1,0 +1,3 @@
+﻿  StudentAverage_w1a.cpp
+D:\C++Adv\week1\StudentAverage\StudentAverage\StudentAverage_w1a.cpp(56,29): warning C4018:  '<=': signed/unsigned mismatch
+  StudentAverage.vcxproj -> D:\C++Adv\week1\StudentAverage\Debug\StudentAverage.exe
