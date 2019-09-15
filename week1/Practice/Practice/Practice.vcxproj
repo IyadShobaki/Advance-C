@@ -126,6 +126,14 @@
     <ClCompile Include="01-01.cpp" />
     <ClCompile Include="01-04.cpp" />
     <ClCompile Include="01-05.cpp" />
+    <ClCompile Include="02-04.cpp" />
+    <ClCompile Include="02-06.cpp" />
+    <ClCompile Include="02-08.cpp" />
+    <ClCompile Include="02-11.cpp" />
+    <ClCompile Include="02-12.cpp" />
+    <ClCompile Include="03-01.cpp" />
+    <ClCompile Include="03-03.cpp" />
+    <ClCompile Include="03-05.cpp" />
     <ClCompile Include="StudentAverage-w1a.cpp" />
     <ClCompile Include="TimeConverter-w1b.cpp" />
   </ItemGroup>

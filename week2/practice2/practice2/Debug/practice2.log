@@ -1,0 +1,5 @@
+﻿  InClassExample1.cpp
+  InClassExample3.cpp
+  Generating Code...
+D:\C++Adv\week2\practice2\practice2\InClassExample3.cpp(26,20): warning C4018:  '<': signed/unsigned mismatch
+  practice2.vcxproj -> D:\C++Adv\week2\practice2\Debug\practice2.exe
