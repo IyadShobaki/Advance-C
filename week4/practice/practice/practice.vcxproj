@@ -125,6 +125,13 @@
   <ItemGroup>
     <ClCompile Include="07-01.cpp" />
     <ClCompile Include="07-02.cpp" />
+    <ClCompile Include="ByRefByVal.cpp" />
+    <ClCompile Include="Friend.cpp" />
+    <ClCompile Include="IShobaki_Lab3_PN2.cpp" />
+    <ClCompile Include="IShobaki_Lab3_ProblemNumber1.cpp" />
+    <ClCompile Include="OperatorOverload.cpp" />
+    <ClCompile Include="OperatorOverloadExample.cpp" />
+    <ClCompile Include="Shobaki_Lab4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

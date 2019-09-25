@@ -1,0 +1,7 @@
+﻿  pigLatin.cpp
+D:\C++Adv\week5\practice5\practice5\pigLatin.cpp(21,20): warning C4018:  '<': signed/unsigned mismatch
+D:\C++Adv\week5\practice5\practice5\pigLatin.cpp(37,20): warning C4018:  '<': signed/unsigned mismatch
+D:\C++Adv\week5\practice5\practice5\pigLatin.cpp(54,20): warning C4018:  '<': signed/unsigned mismatch
+D:\C++Adv\week5\practice5\practice5\pigLatin.cpp(56,9): warning C4018:  '<': signed/unsigned mismatch
+D:\C++Adv\week5\practice5\practice5\pigLatin.cpp(142,20): warning C4018:  '<': signed/unsigned mismatch
+  practice5.vcxproj -> D:\C++Adv\week5\practice5\Debug\practice5.exe
