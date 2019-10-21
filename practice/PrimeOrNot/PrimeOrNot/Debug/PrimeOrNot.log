@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\C++Adv\practice\PrimeOrNot\PrimeOrNot\Source.cpp(41,16): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  PrimeOrNot.vcxproj -> D:\C++Adv\practice\PrimeOrNot\Debug\PrimeOrNot.exe
