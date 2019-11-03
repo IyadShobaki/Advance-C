@@ -14,8 +14,9 @@ bool notHasDecimal(double numberOfYears);
 
 void CalculateCompoundInterest(double amount, double interestRate, int numberOfYears, int number){
 	double compoundInterest;
-	
-	compoundInterest = amount* pow(interestRate + 1, 1);
+	double iRate = interestRate / 100;
+
+	compoundInterest = amount* pow(iRate + 1, 1);
 
 	cout << "The basic amount + compound interest for the "  << number << " Year: $"<< compoundInterest << endl;
 	
@@ -71,9 +72,10 @@ int main() {
 
 		while (1)
 		{
-			cout << "Enter interest rate per year greater than 0:" << endl;
+			cout << "Enter interest rate per year whole number greater than 0:" << endl;
 			cin >> interestRate;
-			if (cin.fail() || interestRate <= 0)
+
+			if (cin.fail() || interestRate <= 0 || notHasDecimal(interestRate))
 			{
 				cin.clear();
 				cin.ignore(numeric_limits<streamsize>::max(), '\n');

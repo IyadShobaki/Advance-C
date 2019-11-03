@@ -1,4 +1,4 @@
 ﻿  IShobaki_Lab9.cpp
-D:\C++Adv\week9\CompoundInterest\CompoundInterest\IShobaki_Lab9.cpp(34,8): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
-D:\C++Adv\week9\CompoundInterest\CompoundInterest\IShobaki_Lab9.cpp(103,51): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\C++Adv\week9\CompoundInterest\CompoundInterest\IShobaki_Lab9.cpp(35,8): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+D:\C++Adv\week9\CompoundInterest\CompoundInterest\IShobaki_Lab9.cpp(104,51): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
   CompoundInterest.vcxproj -> D:\C++Adv\week9\CompoundInterest\Debug\CompoundInterest.exe
