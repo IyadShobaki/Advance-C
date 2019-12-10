@@ -1,0 +1,9 @@
+﻿  IShobaki_FinalProject.cpp
+D:\C++Adv\week15\FinalProject\FinalProject\IShobaki_FinalProject.cpp(108,22): warning C4018: '<': signed/unsigned mismatch
+D:\C++Adv\week15\FinalProject\FinalProject\IShobaki_FinalProject.cpp(122,22): warning C4018: '<': signed/unsigned mismatch
+D:\C++Adv\week15\FinalProject\FinalProject\IShobaki_FinalProject.cpp(149,22): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+D:\C++Adv\week15\FinalProject\FinalProject\IShobaki_FinalProject.cpp(201,22): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+D:\C++Adv\week15\FinalProject\FinalProject\Student.cpp(127,32): warning C4018: '<': signed/unsigned mismatch
+  FinalProject.vcxproj -> D:\C++Adv\week15\FinalProject\Debug\FinalProject.exe
